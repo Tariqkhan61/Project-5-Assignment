@@ -1,0 +1,8 @@
+streamlit
+cryptography==42.0.5
+toml==0.10.2
+tornado==6.5
+typing-extensions==4.13.2
+tzdata==2025.2
+urllib3==2.4.0
+watchdog==6.0.0
